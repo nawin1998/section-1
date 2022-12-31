@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-top: 20px;
+    margin-left: 450px;
+}
+h2{
+    text-align: center;
+}
+section{
+    margin-top: 50px;
+    border: 2px solid;
+}
